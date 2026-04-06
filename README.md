@@ -49,4 +49,4 @@
 ![Quick Sort](https://github.com/adiadinara01-ux/sorting-project/blob/af2a41ffd6330ea62c64daf9010af3048dd4b15b/demo/py_quicksort.png)
 
 ### Selection Sort Python
-![Selection](demo/selection.png)
+![Selection](https://github.com/adiadinara01-ux/sorting-project/blob/d5be412d2062d7e74f4ebbed326c0d02d1a96ae4/demo/py_selectionsort.png)
