@@ -43,7 +43,7 @@
 ![Insertion Sort](https://github.com/adiadinara01-ux/sorting-project/blob/a08c7beb4987cad1a8c2f7935d977ba312f05c3c/demo/py_insertionsort.png)
 
 ### Merge Sort Python
-![Merge Sort](demo/bubble.png)
+![Merge Sort](https://github.com/adiadinara01-ux/sorting-project/blob/7e34c30fb0db35accf41bb1612264b05b7d796e3/demo/py_mergesort.png)
 
 ### Quick Sort Python
 ![Quick Sort](demo/bubble.png)
