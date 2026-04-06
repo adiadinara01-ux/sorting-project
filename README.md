@@ -31,7 +31,7 @@
 ![Merge Sort](https://github.com/adiadinara01-ux/sorting-project/blob/59fdfc78a6488c2448ed52c4b2d8ce677280b4a3/demo/cpp_mergesort.png)
 
 ### Quick Sort Cpp
-![Quick Sort](demo/bubble.png)
+![Quick Sort](https://github.com/adiadinara01-ux/sorting-project/blob/572ac476f69dd0172218999c16e9caa20f5bf5ec/demo/cpp_quicksort.png)
 
 ### Selection Sort Cpp
 ![Selection](demo/selection.png) 
