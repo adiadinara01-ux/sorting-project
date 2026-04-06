@@ -21,8 +21,33 @@
 
 ## Demo
 
-### Bubble Sort
+### Bubble Sort Cpp
 ![Bubble](demo/bubble.png)
 
-### Selection Sort
+### Selection Sort Cpp
 ![Selection](demo/selection.png)
+
+### Insertion Sort Cpp
+![Insertion Sort](demo/bubble.png)
+
+### Quick Sort Cpp
+![Quick Sort](demo/bubble.png)
+
+### Merge Sort Cpp
+![Merge Sort](demo/bubble.png)
+
+### Bubble Sort Python
+![Bubble](demo/bubble.png)
+
+### Selection Sort Python
+![Selection](demo/selection.png)
+
+### Insertion Sort Python
+![Insertion Sort](demo/bubble.png)
+
+### Quick Sort Python
+![Quick Sort](demo/bubble.png)
+
+### Merge Sort Python
+![Merge Sort](demo/bubble.png)
+
