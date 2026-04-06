@@ -22,7 +22,7 @@
 ## Demo
 
 ### Bubble Sort Cpp
-![Bubble](demo/bubble.png)
+![Bubble]([demo/bubble.png](https://github.com/adiadinara01-ux/sorting-project/blob/main/demo/cpp_bubblesort.png))
 
 ### Selection Sort Cpp
 ![Selection](demo/selection.png)
