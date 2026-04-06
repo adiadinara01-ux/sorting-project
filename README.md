@@ -20,4 +20,9 @@
 - Hasil akhir sorting
 
 ## Demo
-(Lampirkan screenshot di sini)
+
+### Bubble Sort
+![Bubble](demo/bubble.png)
+
+### Selection Sort
+![Selection](demo/selection.png)
