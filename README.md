@@ -37,7 +37,7 @@
 ![Selection](https://github.com/adiadinara01-ux/sorting-project/blob/088520fa3f69a799d01c7ebaef488b8767337b57/demo/cpp_selectionsort.png) 
 
 ### Bubble Sort Python
-![Bubble](demo/bubble.png)
+![Bubble](https://github.com/adiadinara01-ux/sorting-project/blob/393597deed1b972a484b49afcf723e47e94b9ffb/demo/py_bubblesort.png)
 
 ### Insertion Sort Python
 ![Insertion Sort](demo/bubble.png)
