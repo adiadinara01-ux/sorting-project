@@ -46,7 +46,7 @@
 ![Merge Sort](https://github.com/adiadinara01-ux/sorting-project/blob/7e34c30fb0db35accf41bb1612264b05b7d796e3/demo/py_mergesort.png)
 
 ### Quick Sort Python
-![Quick Sort](demo/bubble.png)
+![Quick Sort](https://github.com/adiadinara01-ux/sorting-project/blob/af2a41ffd6330ea62c64daf9010af3048dd4b15b/demo/py_quicksort.png)
 
 ### Selection Sort Python
 ![Selection](demo/selection.png)
