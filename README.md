@@ -34,7 +34,7 @@
 ![Quick Sort](https://github.com/adiadinara01-ux/sorting-project/blob/572ac476f69dd0172218999c16e9caa20f5bf5ec/demo/cpp_quicksort.png)
 
 ### Selection Sort Cpp
-![Selection](demo/selection.png) 
+![Selection](https://github.com/adiadinara01-ux/sorting-project/blob/088520fa3f69a799d01c7ebaef488b8767337b57/demo/cpp_selectionsort.png) 
 
 ### Bubble Sort Python
 ![Bubble](demo/bubble.png)
