@@ -28,7 +28,7 @@
 ![Insertion Sort](https://github.com/adiadinara01-ux/sorting-project/blob/3f7831093ad8bf4bc27918d0b7501aba968e1428/demo/cpp_insertionsort.png)
 
 ### Merge Sort Cpp
-![Merge Sort](demo/bubble.png)
+![Merge Sort](https://github.com/adiadinara01-ux/sorting-project/blob/59fdfc78a6488c2448ed52c4b2d8ce677280b4a3/demo/cpp_mergesort.png)
 
 ### Quick Sort Cpp
 ![Quick Sort](demo/bubble.png)
